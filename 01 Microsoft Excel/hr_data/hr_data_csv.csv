@@ -1,0 +1,21 @@
+﻿EMP_ID,NAME,DEPT,JOB_TITLE,POSITION,SALARY,BONUS,INCENTIVE,DEGREE,MAJOR,BIRTH_DATE,HIRED_DATE
+1,Toy,Marketing,Manager,Back,90000,15000,Fixed,Bachelor,Marketing,1988-05-01,2020-02-01
+2,John,Marketing,Officer,Back,25000,5000,Incentive,Bachelor,Marketing,1995-02-17,2019-11-14
+3,Mary,Marketing,Officer,Back,30000,6000,Incentive,Bachelor,Economics,1984-11-16,2005-11-07
+4,David,Marketing,AVP,Back,125000,25000,Fixed,Master,Computer Science,1990-06-03,2020-04-04
+5,Anna,Marketing,SVP,Front,160000,20000,Fixed,Master,Economics,1996-09-29,2017-12-31
+6,Kevin,Sales,Officer,Front,35000,9000,Incentive,Bachelor,Marketing,1982-12-22,2011-11-28
+7,Mark,Sales,Officer,Front,32000,7500,Incentive,Bachelor,Economics,1981-05-25,2007-01-04
+8,Nami,Sales,SVP,Front,185000,30000,Fixed,Master,Finance,1983-10-05,2009-07-22
+9,Lufy,Finance,Officer,Back,28000,2500,Fixed,Bachelor,Management,1982-06-06,2005-09-26
+10,Sunji,Finance,SVP,Back,178000,30000,Fixed,Bachelor,Finance,1979-10-22,2003-11-11
+11,Zoro,HR,Officer,Back,32000,5000,Incentive,Bachelor,Human Resource,1985-01-27,2014-08-26
+12,Uzop,HR,Officer,Back,45000,6800,Fixed,Bachelor,Social Science,1993-10-01,2023-05-28
+13,Garf,HR,AVP,Back,148000,25000,Fixed,Bachelor,Social Science,1988-08-11,2017-09-01
+14,Mihawk,CEO Office,CEO,Back,250000,50000,Fixed,Bachelor,Marketing,1992-03-04,2015-04-20
+15,Jennifer,CEO Office,SVP,Back,180000,34000,Fixed,Bachelor,Finance,1996-06-24,2020-05-19
+16,Kim,Data Science,Officer,Front,30000,2000,Incentive,Bachelor,Engineering,1989-10-04,2020-07-18
+17,Liam,Data Science,Officer,Front,25000,2500,Incentive,Master,Engineering,1982-09-19,2006-12-05
+18,Wick,Data Science,Manager,Front,80000,8000,Fixed,Master,Engineering,1990-12-05,2011-09-12
+19,Bean,Data Science,SVP,Back,175000,40000,Fixed,Master,Statistics,1998-11-19,2020-10-13
+20,Beck,Data Science,AVP,Back,140000,38000,Fixed,Master,Data Science,1983-06-04,2004-03-12
